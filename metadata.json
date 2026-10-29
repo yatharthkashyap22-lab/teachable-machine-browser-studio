@@ -1,0 +1,6 @@
+{
+  "name": "Teachable Machine",
+  "description": "An interactive, code-free web application to create, train, evaluate, and export custom TensorFlow.js machine learning models directly in the browser.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
